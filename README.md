@@ -58,5 +58,8 @@ We looked at the profits realized in each month from 2011 to 2014 and the data s
 months. The probable cause of this may have been a busy business period with fewer or no public holidays. Other probable causes may have been the acquisition of a new
 customer or an increase in orders by an existing customer. In summary, the data shows that 2013 had the best-recorded profits when compared month on month, with $31.68 while 2011 was the lowest with $24.86. This is a difference of $6.82.
 
+![image](https://github.com/user-attachments/assets/53d3bd8a-e5ae-444a-b54b-9d5aee09ae5e)
+
+
 # Conclusion and Recommendation
 In conclusion, our data infers that investing more in the technology category will help to boost the total profit and growth of the company if they are profit-driven. This does not imply that they drop the sales of the other categories as we are aware that in business, the sale of some items may drive the sale of others. They may consider investing more in the category that generates more profits which may enable them to grow and scale faster. Additionally, the company might want to look to expanding to other region since the western region already had a lot of awareness about their products. More so, the customer who brings in the highest profit should enjoy the most discounts if we take a look from the profit perspective.

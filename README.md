@@ -1,4 +1,4 @@
-# Kultra-Mega-Stores-Analysis
+# Kultra-Mega-Stores-sales-Analysis
  Headquartered in LAGOS, Kultra Mega Stores (KMS) specializes in office supplies and furniture. The company's customers range from individual consumers and small businesses (retail), to corporate organizations (wholesale) located in the LAGOS, Nigeria. You are contracted as a Business Intelligence Analyst to help the Kaduna division of the super store. 
  
  # Case Scenario I 
